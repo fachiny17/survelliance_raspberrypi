@@ -35,7 +35,7 @@ CEO StalwartPro.
 SMTP_SERVER = 'smtp.gmail.com'
 SMTP_PORT = 587
 USERNAME = 'iheanyifavour.ube3room312@gmail.com'
-PASSWORD = 'footballer'
+PASSWORD = '**********'
 RECEIVER_EMAIL = 'iheanyifavour.ube3room312@gmail.com'
 
 
